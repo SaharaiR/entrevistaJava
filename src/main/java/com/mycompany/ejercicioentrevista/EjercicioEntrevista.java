@@ -16,7 +16,6 @@ public class EjercicioEntrevista {
     }
     
     public static void main(String[] args) {
-        System.out.println("Hello World!");
         EjercicioEntrevista mandarNumero = new EjercicioEntrevista();
         mandarNumero.esPalindrome(121);
     }
